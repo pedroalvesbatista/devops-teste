@@ -33,7 +33,7 @@ Estamos testando sua capacidade de implementar infraestrutura automatizada moder
 
 2.2 - Test -> Teste com output "Fake test" ou o teste da sua aplicação.
 
-2.3 - Deploy -> Criar um script para implementar de forma automatizada a aplicação. Deploy deve feito via pipeline no local 
+2.3 - Deploy -> Criar um script para implementar de forma automatizada a aplicação. Deploy deve ser feito via pipeline no local 
 de sua escolha. Recomendamos AWS (EC2, ECS, Fargate, Beanstalk, etc).
 
 3 - Criar a Infraestrurura como Código. Recomendamos terraform.
