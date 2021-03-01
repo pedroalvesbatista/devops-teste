@@ -50,7 +50,7 @@ Essa é uma aplicação NodeJS.
 - `npm start` Inicia a aplicação na porta 3000
 
 ## Bônus
-Criar um Shell Script para converter os dados da Receita Federal para CVS e dispobinilizar no local a sua escolha. Recomendamos um Bucket S3.
+Converter os dados da Receita Federal para CVS e dispobinilizar no local a sua escolha. Recomendamos um Bucket S3.
 
 Dados: http://200.152.38.155/CNPJ/DADOS_ABERTOS_CNPJ_01.zip
 
